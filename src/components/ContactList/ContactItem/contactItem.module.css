@@ -1,0 +1,20 @@
+li {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 20px;
+    font-weight: 500;
+
+}
+li:nth-child(n+1) {
+    margin-top: 20px;
+}
+
+.btn-list {
+    display: block;
+    font-size: 18px;
+    padding: 10px;
+    color: #fbfdff;
+    background: #3251ff;
+    border-radius: 15px;
+}

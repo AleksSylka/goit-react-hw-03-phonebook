@@ -1,0 +1,10 @@
+.list {
+    list-style: none;
+    max-width: 450px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #5a8cff;
+    border-radius: 5px;
+    padding: 20px;
+}
